@@ -1,0 +1,18 @@
+{
+  "name": "hyperaide",
+  "version": "1.0.1",
+  "description": "SDK for Hyperaide API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hyperaide",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.8",
+    "typescript": "^5.2.2"
+  }
+}
